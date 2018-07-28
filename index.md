@@ -80,3 +80,9 @@ Server Owner Commands:
 ==================== 
 1. leave - Bot will leave the server
 2. setup-server - If you want to setup a server very fast use this command
+
+### Information:
+- Tom's default prefix is ?
+- Tom is a multipurpose bot who you can do many things with.
+- Tom is hosted 24/7 so you don't have to wait for him to come back online.
+- Tom was coded by ĞÆMĚR#9756
